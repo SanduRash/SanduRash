@@ -13,6 +13,10 @@
 - Senior Project
   - [Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 
+
+📊 **Data Analytics Projects**
+- [Analysis of Storm Trends and Patterns (1975-2021)](https://github.com/SanduRash/Storms-Data-Set-from-1975-2021)
+
 📫 **Connect with me**  
 [LinkedIn](www.linkedin.com/in/sanduni-galbokka-hewa) | [Email](mailto:sandurash19@gmail.com)
 
