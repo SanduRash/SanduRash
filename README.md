@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Sanduni Galbokka Hewa
+## 👋 Hi there, I'm Sanduni Galbokka Hewa
 
 🎓 I'm a recent Computer Science graduate with a strong interest in **machine learning**, **data analytics**, and **software development**.
 
