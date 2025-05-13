@@ -12,10 +12,10 @@
 🚀 **Software Development Projects**
 - Senior Project
   - [Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
--Computer Systems 2
--Data Structures & Algorithms
--Applied Discrete Mathematics
--Computer Systems 1
+- Computer Systems 2
+- Data Structures & Algorithms
+- Applied Discrete Mathematics
+- Computer Systems 1
 
 
 📊 **Data Analytics Projects**
