@@ -13,6 +13,7 @@
 - Senior Project
   - [Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 - Computer Systems 2
+  - [Memory Manager and Garbage Collection](https://github.com/SanduRash/Memory-Manager-and-Garbage-Collection)
 - Data Structures & Algorithms
 - Applied Discrete Mathematics
 - Computer Systems 1
