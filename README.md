@@ -11,7 +11,7 @@
 
 🚀 **Software Development Projects**
 - Hackerthon Project
-  - [Recipe Builder](https://github.com/SammieBee123/Recipe_Builder)
+  - [View 'g++ Recipe Finder' on DEVPOST](https://devpost.com/software/g-recipe-finder)
 - Senior Project
   - [Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 - Computer Systems 2
