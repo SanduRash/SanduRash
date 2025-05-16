@@ -10,6 +10,8 @@
 - **Tools**: Git, GitHub, RStudio, Jupyter, VS Code
 
 🚀 **Software Development Projects**
+- Hackerthon Project
+  - [Recipe Builder](https://github.com/SammieBee123/Recipe_Builder)
 - Senior Project
   - [Studio Production Planner](https://github.com/TylerRWard/Broadcast-Studio-Production-Planner)
 - Computer Systems 2
