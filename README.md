@@ -15,6 +15,10 @@
 - Computer Systems 2
   - [Memory Manager and Garbage Collection](https://github.com/SanduRash/Memory-Manager-and-Garbage-Collection)
 - Data Structures & Algorithms
+  - [Sorting Algorithms and Data Structures](https://github.com/SanduRash/Sorting-Algorithms-and-Data-Structures)
+  - [AVL tree and a chained hash table](https://github.com/SanduRash/AVL-tree-and-a-chained-hash-table)
+  - [Greedy Algorithms Divide and Conquer Algorithms](https://github.com/SanduRash/Greedy-Algorithms-Divide-and-Conquer-Algorithms)
+  - [Kruskal's algorithm - Minimal Cost Door Installation](https://github.com/SanduRash/Kruskal-s-algorithm---Minimal-Cost-Door-Installation)
 - Applied Discrete Mathematics
 - Computer Systems 1
 
