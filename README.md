@@ -28,15 +28,5 @@
 📊 **Data Analytics Projects**
 - [Analysis of Storm Trends and Patterns (1975-2021)](https://github.com/SanduRash/Storms-Data-Set-from-1975-2021)
 
-📫 **Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/sanduni-galbokka-hewa/) | [Email](mailto:sandurash19@gmail.com)
-
-//## 📊 GitHub Stats
-
-// ![SanduRash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanduRash&show_icons=true&theme=default&locale=en)
-
-// ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduRash&layout=compact&show_icons=true&locale=en)
-
-
 ---
 Thanks for stopping by!
